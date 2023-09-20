@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Laser
+comment0.text=\r\n\ Laser\ comes\ from\ the\ car\ and\ owns\ anything\ it\ hits\ $$\r\n\ Laser\ has\ a\ set\ amount\ of\ live\ then\ it\ is\ removed.\r\n\ @author\ Hubert\ Jackson\ Black\ III\r\n\ @version\ v0.10\r\n
+comment1.params=
+comment1.target=Laser()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
